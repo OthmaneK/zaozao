@@ -1,0 +1,97 @@
+html{
+	text-align: center;
+
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+h1{	
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+	border-color: solid black;
+	color: white;
+
+}
+body{
+	background-image: url(http://www.todayifoundout.com/wp-content/uploads/2013/08/pacman.jpg);
+}
+.poopy{
+	border: 1px solid black;
+	background-color: white;
+
+}
+img{
+	height: 30%;
+    width: 30%;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    transition: all 0.6s ease-in-out;
+}
+img:hover{
+	filter: grayscale(100%);
+	transform: translateY(-5%);
+	    transform: scale(1.02568); 
+}
+p{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+	color: brown;
+	opacity: 5000;
+	font-size: 30px;
+	font-family: 'Homemade Apple', cursive;
+}
+h3:hover{
+	color: #0B173B;
+}
+ul {
+    margin: 50px;
+    list-style-type: none;
+    margin: 0;
+    padding-: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+}
+li{
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#4000FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+li a:hover{
+	color: #F2F5A9 ;
+	background-color: #31B404 ;
+}
+
+h1{
+	margin: 5%;
+	padding: 5%;
+	font-family: 'Knewave', cursive;
+}
+
+.mid{
+	font-size: 55px;
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	padding-bottom: 10px;
+}
+.mid:hover{
+	color: #D7DF01;
+	transform: scale(1.2); 
+}
+}
+
+.hmed{
+	border: 1px solid black;
+	margin-right: 600px;
+	margin-left: 600px;
+}
